@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi, I'm Sara 👋
+I'm a sophomore at CUNY Lehman College and Macaulay Honors College, studying Computer Graphics and Imaging with a minor in Media Communications Studies. I have a passion for blending tech, design, and marketing to analyze brands and shape their strategic direction.
+## Skills
+Languages: Python, Java, JavaScript, HTML/CSS
 
+Tools: GitHub, Google Colab, Jupyter Notebook
+## Let's Connect!
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sara-abdulla-0ba97b292/)
+&nbsp;
 <!--
 **Oreo-cake/Oreo-cake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
