@@ -1,5 +1,5 @@
 # Hi, I'm Sara 👋
-I'm a sophomore at CUNY Lehman College and Macaulay Honors College, studying Computer Graphics and Imaging with a minor in Media Communications Studies. I have a passion for blending tech, design, and marketing to analyze brands and shape their strategic direction.
+I'm a junior at CUNY Lehman College and Macaulay Honors College, studying Computer Graphics and Imaging with a minor in Media Communications Studies. I have a passion for blending tech, design, and marketing to analyze brands and shape their strategic direction.
 ## Skills
 Languages: Python, Java, JavaScript, HTML/CSS
 
